@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>https://invest-in-paradise.com/</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://invest-in-paradise.com/images/hero-villa-exterior.jpg</image:loc>
+      <image:title>Luxury Tropical Villa Exterior Punta Cana</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://invest-in-paradise.com/for-retirees</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://invest-in-paradise.com/images/villa-pool-garden.jpg</image:loc>
+      <image:title>Retirement Villa Pool and Garden</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://invest-in-paradise.com/for-families</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://invest-in-paradise.com/images/modern-villa-entrance.jpg</image:loc>
+      <image:title>Family Friendly Villa Entrance</image:title>
+    </image:image>
+  </url>
+
+</urlset>

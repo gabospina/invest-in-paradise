@@ -1,0 +1,17 @@
+# robots.txt for Invest in Paradise - Optimized for 2026
+User-agent: *
+Allow: /
+Allow: /for-retirees
+Allow: /for-families
+
+# Disallow build artifacts
+Disallow: /dist/
+Disallow: /node_modules/
+
+Sitemap: https://invest-in-paradise.com/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
